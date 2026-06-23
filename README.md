@@ -1,4 +1,5 @@
 # Hospitality Revenue Insights Dashboard
+<img width="1425" height="747" alt="image" src="https://github.com/user-attachments/assets/567879bb-cb6d-446c-98fe-b40e2ceb6a5b" />
 
 ## Overview
 
